@@ -1,1 +1,0 @@
-# Invoice-and-Receipt-Intelligence
