@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.db
+exports/
+uploads/
+/tmp/
+node_modules/
+frontend/dist/
+.DS_Store
+invoices.db
+chroma_db/
+*.db-shm
+*.db-wal
