@@ -1,6 +1,7 @@
 import { useState, useRef, useCallback } from "react";
 
-const API = import.meta.env.VITE_API_URL || "http://localhost:8000/api";
+// const API = import.meta.env.VITE_API_URL || "http://localhost:8000/api";
+const API = import.meta.env.VITE_API_URL || "/api";
 
 const STATUS_META = {
   approved:   { color: "#1D9E75", bg: "#E1F5EE", label: "Approved"     },
